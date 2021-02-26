@@ -6,5 +6,5 @@ steps :
 2. Run npm install
 
 * Install node modules in frontend
-1. Go to Backend Folder
+1. Go to Frontend Folder
 2. Run npm install
